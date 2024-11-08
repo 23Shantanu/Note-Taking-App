@@ -3,7 +3,7 @@ Note Taking App in react js
 
 # React Module Test | Notes App (in React)
 
-THIS is the Link of Note Taking App https://note-taking-app-cuvette.vercel.app
+THIS is the Link of Note Taking App https://shantanu-note-taking-app.netlify.app/
 
 
 ## Demo
